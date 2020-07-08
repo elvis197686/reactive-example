@@ -1,0 +1,9 @@
+server:
+  port: 80
+
+store:
+  url: http://localhost:9990/store
+
+logging.level:
+  com.scw.reactive.: DEBUG
+  
